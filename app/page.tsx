@@ -17,8 +17,8 @@ export default function Page() {
           <p className="text-lg text-gray-400">Student at SLIIT</p>
         </div>
       </div>
-      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Welcome! 👋
+      <h1 className="mb-8 text-2xl  font-semibold tracking-tighter hover:text-green-400">
+        Welcome to my portfolio! 👋
       </h1>
       <p className="mb-4">
         I am a passionate JavaScript developer and full-time student at SLIIT.
